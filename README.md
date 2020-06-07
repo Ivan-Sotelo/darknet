@@ -1,7 +1,9 @@
 # This is a fork of the implementation of AlexeyAB's implementation of YoloV4 on darknet. 
 linked here: https://github.com/AlexeyAB/darknet
 
-# This project proposes to make an object detection network using deep learning techniques that predicts in real-time if an RGB video contains a hand grasping an object
+This project proposes to make an object detection network using deep learning techniques that predicts in real-time if an RGB video contains a hand grasping an object
+
+
 
 ### DEMO VIDEOS
 
