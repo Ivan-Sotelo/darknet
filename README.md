@@ -3,6 +3,8 @@
 
 This project proposes to implement an object detection network using deep learning techniques to predict in real-time if an RGB video contains a hand grasping an object.
 
+Presentation Video: https://www.youtube.com/watch?v=y7nI9wQG0e8
+
 Grab detection is the detection of hands grasping objects
 
 ![Imgur](https://i.imgur.com/r7Ke0FO.png)
